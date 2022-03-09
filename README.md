@@ -1,5 +1,10 @@
 ### Oii, sou a Iza, estudante de desenvolvimento de software!
 
+- 🏃‍♀️ Hoje participo do projeto Desenvolve - 2022
+- 🌱 Estudando JavaScript
+- 😊 Pronouns: ela/dela
+- 🏎️ Fun Fact: Esporte preferido é formula 1
+
 <div align="center">
   <a href="https://github.com/izacardoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izacardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
