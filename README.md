@@ -3,7 +3,7 @@
 - 🏃‍♀️ Hoje participo do projeto Desenvolve - 2022
 - 🌱 Estudando JavaScript
 - 😊 Pronouns: ela/dela
-- 🏎️ Fun Fact: Esporte preferido é formula 1
+- 🏎️ Fun Fact: Esporte preferido é fórmula 1
 
 <div align="center">
   <a href="https://github.com/izacardoso">
