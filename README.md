@@ -1,6 +1,6 @@
 ### Oii, sou a Iza, estudante de desenvolvimento de software!
 
-- 🏃‍♀️ Hoje participo do projeto Desenvolve - 2022
+- 🏃‍♀️ Participo do projeto Desenvolve - 2022
 - 🌱 Estudando JavaScript
 - 😊 Pronouns: ela/dela
 - 🏎️ Fun Fact: Esporte preferido é fórmula 1
