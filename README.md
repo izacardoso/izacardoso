@@ -1,7 +1,6 @@
-### Oii, sou a Iza, estudante de desenvolvimento de software!
+### Oii, sou a Iza, estudante na área de tecnologia!
 
-- 🏃‍♀️ Participo do projeto Desenvolve - 2022
-- 🌱 Estudando Desenvolvimento FullStack e Engenharia de Software
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 😊 Pronouns: ela/dela
 - 🏎️ Fun Fact: Esporte preferido é fórmula 1
 
